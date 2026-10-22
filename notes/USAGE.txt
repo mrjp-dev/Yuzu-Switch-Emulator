@@ -1,0 +1,4 @@
+USAGE Yuzu-Switch-Emulator
+yuzu vulkan. own nca. Sudachi Citron.
+Extract. Run. See readme.
+Stamp rev-q3mh4o-20261022

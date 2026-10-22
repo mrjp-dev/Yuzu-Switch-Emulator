@@ -1,0 +1,3 @@
+CHANGELOG Yuzu-Switch-Emulator
+v1821 2026-08-31
+Stamp rev-q3mh4o-20261022
